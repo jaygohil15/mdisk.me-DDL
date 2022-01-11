@@ -9,3 +9,5 @@ Everytime mdisk.me link is opened this script will run.
 
 ### USE CASE:
 - The script will auto start downloading video.
+
+**Note**: Still Need specific player to play videos.
